@@ -1,3 +1,13 @@
 header{
     background-color: #2C3F50;
 }
+
+.about{
+    background-color: #1ABC9C;
+}
+.jumbotron{
+    background-color: #1ABC9C;
+}
+:root{
+    --col-white:white;
+}

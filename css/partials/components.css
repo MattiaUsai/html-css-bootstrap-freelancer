@@ -1,8 +1,18 @@
-.star{
-    text-align: center;
-    width: 100%;
+/* STELLA CON LINETTE */
+.hr-star{
+    width: 100px;
+    border: 3px solid var(--col-white);
+    margin: auto 0;
+    border-radius: 10%;
+    opacity: 100;
+   
 }
-.fa-solid{
-    font-size: large;
-    width: 50px;
+.fa-star{
+    margin: 0 10px ;
+    color: var(--col-white);
+}
+.star{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
 }
